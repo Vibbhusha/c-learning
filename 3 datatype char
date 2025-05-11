@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    char dollar = '$';
+    printf("dollar is %c \n",dollar);
+    return 0;
+}
