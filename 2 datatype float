@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    float price = 97.4;
+    printf("price is %f \n", price);
+    return 0;
+}
